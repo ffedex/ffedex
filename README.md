@@ -1,0 +1,5 @@
+- 👋 hi im fede
+- 👀 I’m interested in computers nd shit
+- 🌱 I’m currently learning lua, batchfile, python
+- 📫 How to reach me discord @swqss
+- 😄 Pronouns: he/him
