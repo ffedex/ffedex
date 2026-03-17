@@ -1,5 +1,5 @@
 - 👋 hi im fede
 - 👀 I’m interested in computers nd shit
 - 🌱 I’m currently learning lua, batchfile, python
-- 📫 How to reach me: discord @k1llerfede
+- 📫 How to reach me: t fedefpss
 - 😄 Pronouns: he/him
